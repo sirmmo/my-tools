@@ -11,11 +11,16 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 * [fastapi-admin](https://fastapi-admin-docs.long2ice.io/)
 
 ## Runners
-* uvicorn
-* hypercorn
-* [granian](https://github.com/emmett-framework/granian)
+* **[granian](https://github.com/emmett-framework/granian)**
   
       granian --interface asgi <project>:<app> --host <host> --port <port>
+
+* hypercorn
+
+      hypercorn <project>:<app> -b <host>:<port>
+
+* uvicorn
+* gunicorn
 
 ## Others
 ### ORMs
