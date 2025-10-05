@@ -15,7 +15,7 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
   
       granian --interface asgi <project>:<app> --host <host> --port <port>
 
-* hypercorn
+* [hypercorn](https://hypercorn.readthedocs.io/en/latest/index.html)
 
       hypercorn <project>:<app> -b <host>:<port>
 
@@ -27,6 +27,8 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 * SqlAlchemy
 * [TortoiseORM](https://github.com/tortoise/tortoise-orm/)
   * [Aerich Migrations](https://github.com/tortoise/aerich)
+### Libraries
+* [whitenoise](https://whitenoise.readthedocs.io/en/stable/index.html)
 ### FastMCP
 
 # Angular
@@ -35,3 +37,6 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 * material
 * prime-ng
 
+# Other stuff
+## Platforms
+* [paperless-ngx](https://docs.paperless-ngx.com/)
