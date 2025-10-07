@@ -4,7 +4,7 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 ## Frameworks
 ### [Django](https://www.djangoproject.com/)
 * [django-ninja](https://django-ninja.dev/) - a modern fast-api like adaptation of the classic DRF approach
-
+* [Tastypie](https://github.com/django-tastypie/django-tastypie)
 * Django Rest Framework
 
 ### [Fastapi](https://github.com/fastapi/fastapi)
