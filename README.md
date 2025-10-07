@@ -24,19 +24,33 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 
 ## Others
 ### ORMs
-* SqlAlchemy
+* [SqlAlchemy](https://www.sqlalchemy.org/)
+  * [Alembic](https://alembic.sqlalchemy.org/en/latest/)
 * [TortoiseORM](https://github.com/tortoise/tortoise-orm/)
   * [Aerich Migrations](https://github.com/tortoise/aerich)
 ### Libraries
 * [whitenoise](https://whitenoise.readthedocs.io/en/stable/index.html)
 ### FastMCP
 
-# Angular
+# [Angular](https://angular.dev/)
 
 ## UI Kits
-* material
-* prime-ng
+* [material](https://material.angular.dev/)
+* [bootstrap](https://ng-bootstrap.github.io/#/home)
+* [prime-ng](https://primeng.org/)
+
+## Libraries
+* [ag-grid](https://www.ag-grid.com/angular-data-grid/getting-started/)
 
 # Other stuff
 ## Platforms
 * [paperless-ngx](https://docs.paperless-ngx.com/)
+
+----
+
+# Cloud
+* [Portainer](https://portainer.io/)
+* [Swarmpit](https://swarmpit.io/)
+
+# Swarm
+* [swarm-cronjob](https://crazymax.dev/swarm-cronjob/)
