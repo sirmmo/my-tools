@@ -30,8 +30,12 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
   * [Aerich Migrations](https://github.com/tortoise/aerich)
 ### Libraries
 * [whitenoise](https://whitenoise.readthedocs.io/en/stable/index.html)
-### FastMCP
 
+## AI
+* [FastMCP](https://gofastmcp.com/)
+
+
+----
 # [Angular](https://angular.dev/)
 
 ## UI Kits
@@ -42,6 +46,7 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 ## Libraries
 * [ag-grid](https://www.ag-grid.com/angular-data-grid/getting-started/)
 
+----
 # Other stuff
 ## Platforms
 * [paperless-ngx](https://docs.paperless-ngx.com/)
