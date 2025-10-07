@@ -50,6 +50,8 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 # Other stuff
 ## Platforms
 * [paperless-ngx](https://docs.paperless-ngx.com/)
+* [Carbone](https://carbone.io/)
+* 
 
 ----
 
