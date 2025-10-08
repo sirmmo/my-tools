@@ -33,7 +33,7 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 
 ## AI
 * [FastMCP](https://gofastmcp.com/)
-
+* [ollama](https://github.com/ollama/ollama-python)
 
 ----
 # [Angular](https://angular.dev/)
