@@ -61,3 +61,7 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 
 # Swarm
 * [swarm-cronjob](https://crazymax.dev/swarm-cronjob/)
+
+----
+# Tools
+* [Learn DMARC](https://www.learndmarc.com/)
