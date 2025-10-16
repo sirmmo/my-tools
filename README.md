@@ -31,6 +31,9 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 ### Libraries
 * [whitenoise](https://whitenoise.readthedocs.io/en/stable/index.html)
 
+### Testing
+* [allpairspy](https://github.com/thombashi/allpairspy)
+
 ## AI
 * [FastMCP](https://gofastmcp.com/)
 * [ollama](https://github.com/ollama/ollama-python)
