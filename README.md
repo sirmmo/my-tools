@@ -29,6 +29,7 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 * [TortoiseORM](https://github.com/tortoise/tortoise-orm/)
   * [Aerich Migrations](https://github.com/tortoise/aerich)
 * [**SqlModel**](https://sqlmodel.tiangolo.com/)
+  Perfect usage example [here](https://fastapi.tiangolo.com/tutorial/sql-databases/#heroupdate-the-data-model-to-update-a-hero)
 
 ### Libraries
 * [whitenoise](https://whitenoise.readthedocs.io/en/stable/index.html)
