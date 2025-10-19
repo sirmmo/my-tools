@@ -28,6 +28,8 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
   * [Alembic](https://alembic.sqlalchemy.org/en/latest/)
 * [TortoiseORM](https://github.com/tortoise/tortoise-orm/)
   * [Aerich Migrations](https://github.com/tortoise/aerich)
+* [**SqlModel**](https://sqlmodel.tiangolo.com/)
+
 ### Libraries
 * [whitenoise](https://whitenoise.readthedocs.io/en/stable/index.html)
 
