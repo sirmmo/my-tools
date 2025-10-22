@@ -60,6 +60,12 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 * 
 
 ----
+# API Clients
+* [Bruno](https://www.usebruno.com/)
+* Insomnia / Insomnium
+
+
+----
 
 # Cloud
 * [Portainer](https://portainer.io/)
