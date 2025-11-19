@@ -57,7 +57,7 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 ## Platforms
 * [paperless-ngx](https://docs.paperless-ngx.com/)
 * [Carbone](https://carbone.io/)
-* 
+* [hi.events](https://hi.events/)
 
 ----
 # API Clients
