@@ -33,6 +33,7 @@ This is my own "awesome"-like list of tools. Who cares? Me, because I often don'
 
 ### Libraries
 * [whitenoise](https://whitenoise.readthedocs.io/en/stable/index.html)
+* [PyFilemail](https://pyfilemail.readthedocs.io/en/latest/#) - To integrate wetransfer-like service into your app (for large files)
 
 ### Testing
 * [allpairspy](https://github.com/thombashi/allpairspy)
